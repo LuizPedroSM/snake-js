@@ -3,7 +3,7 @@
 </h2>
 
 # 💻 Angular-Filmes
-> Projeto feito no bootcamp da Digital Innovation One. 
+> Projeto feito no bootcamp da Digital Innovation One. Jogo snake feito em JavaScript
 
 ## 📷 Imagens
 
@@ -13,3 +13,5 @@
     <img alt="Game" src=".github/game.png" width="100%">
 </p>
 
+## 🌐 GitHub Pages
+> https://luizpedrosm.github.io/snake-js/
