@@ -2,7 +2,7 @@
   Snake-js
 </h2>
 
-# 💻 Angular-Filmes
+# 💻 Snake 
 > Projeto feito no bootcamp da Digital Innovation One. Jogo snake feito em JavaScript
 
 ## 📷 Imagens
